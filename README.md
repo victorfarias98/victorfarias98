@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Farias</h1>
 <h3 align="center">A Web Developer focused in Back-end development</h3>
 
-- 🔭 I’m currently working on [Explicaê](https://explicae.com.br/)
+- 🔭 I’m currently working on [CI&T](https://ciandt.com/)
 - 🌱 I am currently studying NodeJs at [RocketSeat] (https://rocketseat.com.br/)
 - 💬 Ask me about **PHP, JavaScript, HTML, CSS, SQL**
 - 📫 How to reach me **vgfr456@gmail.com**
